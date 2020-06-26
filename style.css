@@ -75,6 +75,7 @@ input[type="submit"]:hover {
     padding: 10px;
     box-shadow: 0px 2px 4px rgba(8, 35, 48, 0.24);
     border: none;
+    background-color: lightgrey;
 }
 
 .table img {
